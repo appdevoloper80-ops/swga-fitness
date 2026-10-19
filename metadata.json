@@ -1,0 +1,6 @@
+{
+  "name": "Southwest Georgia Fitness Center",
+  "description": "Bold, high-energy demo website for Southwest Georgia Fitness Center, a 24/7 gym in Americus, GA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
